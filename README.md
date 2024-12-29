@@ -15,15 +15,14 @@ Rentify is a decentralized platform designed to streamline and secure rent payme
 
 ## Contract Details
 - **Contract Address**: `0x90636728aF63da90e46a531579E902C19F4E2B02`
-- **Network**: Neo X Testnet T4
-- **Coin Used**: GAS (Neo X Testnet currency)
+- **Network**: Neo X Mainnet
+- **Coin Used**: GAS 
 
 ---
 
 ## Deployment
-- **Contract Address**: [View on Neo Explorer](https://xt4scan.ngd.network/address/0x90636728aF63da90e46a531579E902C19F4E2B02)
-- **Coin Used**: GAS (used for transaction fees on the Neo X Testnet T4)
-
+- **Contract Address**: [View on Neo Explorer](https://xexplorer.neo.org/address/0x90636728aF63da90e46a531579E902C19F4E2B02)
+- **Coin Used**: GAS 
 ---
 
 ## How to Use
